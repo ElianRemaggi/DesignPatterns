@@ -1,0 +1,2 @@
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csproj.CoreCompileInputs.cache

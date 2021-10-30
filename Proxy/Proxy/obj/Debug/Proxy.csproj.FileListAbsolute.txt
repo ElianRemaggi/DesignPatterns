@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Proxy\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\bin\Debug\Abstract-Factory.exe.config
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\bin\Debug\Abstract-Factory.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\bin\Debug\Abstract-Factory.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\obj\Debug\Abstract-Factory.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\obj\Debug\Abstract-Factory.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\obj\Debug\Abstract-Factory.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Abstract-Factory\Abstract-Factory\obj\Debug\Abstract-Factory.pdb

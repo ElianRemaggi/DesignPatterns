@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Observer\Observer\obj\Debug\Observer.pdb

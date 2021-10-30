@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\obj\Debug\Estrategia.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\obj\Debug\Estrategia.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\bin\Debug\Estrategia.exe.config
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\bin\Debug\Estrategia.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\bin\Debug\Estrategia.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\obj\Debug\Estrategia.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Estrategia\Estrategia\obj\Debug\Estrategia.pdb
