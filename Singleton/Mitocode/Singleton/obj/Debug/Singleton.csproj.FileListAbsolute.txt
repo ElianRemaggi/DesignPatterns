@@ -1,0 +1,13 @@
+C:\Users\Coding\Documents\Proyectos\Quark\PreWork\Patrones de disenio\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Coding\Documents\Proyectos\Quark\PreWork\Patrones de disenio\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Coding\Documents\Proyectos\Quark\PreWork\Patrones de disenio\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Coding\Documents\Proyectos\Quark\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\Proyectos\Quark\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Coding\Documents\Proyectos\Quark\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\Singleton\obj\Debug\Singleton.pdb

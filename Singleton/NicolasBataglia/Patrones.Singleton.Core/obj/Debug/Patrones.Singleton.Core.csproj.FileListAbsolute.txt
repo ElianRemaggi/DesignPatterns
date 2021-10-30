@@ -1,0 +1,12 @@
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\Patrones.Singleton.Core\bin\Debug\Patrones.Singleton.Core.dll
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\Patrones.Singleton.Core\bin\Debug\Patrones.Singleton.Core.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.dll
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\bin\Debug\Patrones.Singleton.Core.dll
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\bin\Debug\Patrones.Singleton.Core.pdb
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.dll
+C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\Singleton\NicolasBataglia\Patrones.Singleton.Core\obj\Debug\Patrones.Singleton.Core.pdb
