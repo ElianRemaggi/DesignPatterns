@@ -1,3 +1,6 @@
+Resumen = https://drive.google.com/drive/folders/1JsDP_xs1SaS_fGIKHTCohR5zLamusxaU?usp=sharing
+
+
 Creacionales:
 
 	Proveen diferentes formas de crear objetos
@@ -7,16 +10,25 @@ Creacionales:
 	
 
 	Abstract Factory
+
 	Builder
-	Factory Method
+
+	Factory Method = Devolver instancias de una clase en particular, por medio de algún identificador.
+
 	Prototype
+
 	Singleton
 
 
+
 	Abstract Factory
+
 	Builder
+
 	Factory Method
+
 	Prototype
+
 	Singleton = Logra tener una unica instancia de una clase para la aplicacion, todos los usuarios utilizaran la misma instancia.
 
 
@@ -28,12 +40,19 @@ Estructurales:
 	Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes
 	
 	Adapter
+
 	Bridge
+
 	Composite
+
 	Facade
+
 	Flyweight
+
 	Proxy
+
 	Decorator
+
 
 
 Comportamiento:
@@ -43,13 +62,24 @@ Comportamiento:
 	Gestionan algoritmos y responsabilidades entre objetos
 
 	Chain Of Responsability
+
 	Command
+
 	Interpreter
+
 	Iterator
+
 	Mediator
+
 	Memento
+
 	Observer
+
 	State
+
 	Strategy
+
 	Template Method
+
 	Visitor
+
