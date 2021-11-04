@@ -9,7 +9,7 @@ Creacionales:
 	ayuda a mantener el código libre de infinitos ifs o switches.
 	
 
-	Abstract Factory
+	Abstract Factory = Crea diferentes familias de objetos, logra escalavildiad a nivel familia.
 
 	Builder
 
