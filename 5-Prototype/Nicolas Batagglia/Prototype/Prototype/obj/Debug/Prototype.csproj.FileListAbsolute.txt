@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\5-Prototype\Nicolas Batagglia\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
