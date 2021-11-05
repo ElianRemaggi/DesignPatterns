@@ -1,7 +1,0 @@
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\bin\Debug\GetSet.exe.config
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\bin\Debug\GetSet.exe
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\bin\Debug\GetSet.pdb
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\obj\Debug\GetSet.csprojAssemblyReference.cache
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\obj\Debug\GetSet.csproj.CoreCompileInputs.cache
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\obj\Debug\GetSet.exe
-C:\Users\Coding\Documents\IngenieriaDesarrolloVideojuegos\PreWork\Patrones de disenio\GetSet\GetSet\obj\Debug\GetSet.pdb
