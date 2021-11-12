@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\bin\Debug\Commands.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\bin\Debug\Commands.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\bin\Debug\Commands.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\obj\Debug\Commands.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\obj\Debug\Commands.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\obj\Debug\Commands.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\Comportamiento\8-Commands\Nicolas Battaglia\Commands\Commands\obj\Debug\Commands.pdb

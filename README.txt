@@ -1,6 +1,5 @@
 Resumen = https://drive.google.com/drive/folders/1JsDP_xs1SaS_fGIKHTCohR5zLamusxaU?usp=sharing
 
-
 Creacionales:
 
 	Proveen diferentes formas de crear objetos
@@ -9,13 +8,13 @@ Creacionales:
 	ayuda a mantener el código libre de infinitos ifs o switches.
 	
 
-	Abstract Factory = Crea diferentes familias de objetos, logra escalavildiad a nivel familia.
+	Abstract Factory = Crea diferentes familias de objetos, logra escalabilidad a nivel familia.
 
 	Builder
 
 	Factory Method = Devolver instancias de una clase en particular, por medio de algún identificador.
 
-	Prototype
+	Prototype = Especifica los tipos de objetos a crear, por medio de una instancia prototipica y crea nuevos ojetos a partir de esta
 
 	Singleton
 
@@ -27,7 +26,7 @@ Creacionales:
 
 	Factory Method
 
-	Prototype
+	Prototype = Proporciona un representante o sustituto de otro objeto para controlar el acceso a este
 
 	Singleton = Logra tener una unica instancia de una clase para la aplicacion, todos los usuarios utilizaran la misma instancia.
 
@@ -41,7 +40,7 @@ Estructurales:
 	
 	Adapter
 
-	Bridge
+	Bridge = 
 
 	Composite
 
