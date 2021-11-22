@@ -1,0 +1,13 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: La responsabilidad única será de notificar en el momento que se de una acción. 
+	Siempre estará acompañada de un evento, que se dara adentro del observado.
+O: Funciona si el observado devuelve su estado. 
+L: Aplica el principio si las implementaciones están correctas.
+I: Solo se necesita una interfaz para aplicar el método, sin ser necesariamente modificable.
+D: Depende de la implementación, al devolver un estado, se enviarán clases que varían el nivel.
+	

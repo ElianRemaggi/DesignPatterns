@@ -1,0 +1,13 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Puede utilizarse como un singleton, interpreto que no es el uso principal, pero aplica.
+O: Se pueden crear tantas clases que hereden de nuestra interfaz como sea necesario tocar código prescrito. 
+	También se pueden agregar funcionalidades, creando nuevas interfaces y heredando de la estrategia principal,
+	esto puede ser un arma de doble filo.
+L: El patrón se basa en este aspecto. Todas las implementaciones de nuestra estrategia funcionarán como su padre (Estrategia).	
+I: Se puede dar el caso de que la interfaz estrategia crezca más de lo que debe. 
+D:
