@@ -1,0 +1,7 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\bin\Debug\DAO.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\bin\Debug\DAO.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\bin\Debug\DAO.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\obj\Debug\DAO.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\SinClasificacion\12-PatronDAO\Mitocode2\DAO\DAO\obj\Debug\DAO.pdb

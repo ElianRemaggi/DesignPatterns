@@ -1,0 +1,14 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Solo tiene la responsabilidad de dar acceso a datos.
+O: El dao solo brinda el acceso a los datos, 
+	si se requiere de una fuente nueva esta puede ser codificada en una nueva implementacion
+L: Las implementaciones pueden ser utilizadas con su padre comun.
+I: Se puede implementar diferentes interfaces para no romper este principio.
+	Tambien se pueden crear CRUDS para las necesidades comunes.
+D:El dao en este ejemplo es una interfaz que tiene una clase concreta, el consumidor del DAO no tiene porque saber que implementación se está usando, 
+	le basta con conocer su interfaz. Este principio se cumple
