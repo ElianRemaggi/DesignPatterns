@@ -10,25 +10,14 @@ Creacionales:
 
 	Abstract Factory = Crea diferentes familias de objetos, logra escalabilidad a nivel familia.
 
-	Builder
+	Builder =
 
 	Factory Method = Devolver instancias de una clase en particular, por medio de algún identificador.
 
 	Prototype = Especifica los tipos de objetos a crear, por medio de una instancia prototipica y crea nuevos ojetos a partir de esta
 
-	Singleton
+	Singleton = 
 
-
-
-	Abstract Factory
-
-	Builder
-
-	Factory Method
-
-	Prototype = Proporciona un representante o sustituto de otro objeto para controlar el acceso a este
-
-	Singleton = Logra tener una unica instancia de una clase para la aplicacion, todos los usuarios utilizaran la misma instancia.
 
 
 Estructurales:
