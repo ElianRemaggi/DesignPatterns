@@ -1,0 +1,16 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple con el principio, 
+	las responsabilidad es crear objetos.
+O: Este principio se puede romper por el codigo cliente,
+	el que indica que producto de la fabrica se tiene que crear.
+L: Cumple el principio.
+I: El principio se cumple
+	Si bien suelen implementar una unica interfaz,
+	Las fabricas poseen unos pocos metodos. 
+D: No cumple el principio,
+	Necesita concoer el tipo de clase que va a devolver.
