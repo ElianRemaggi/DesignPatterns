@@ -4,8 +4,11 @@ LISKOV SUBSTITUTION
 INTERFACE SEGREGATION
 DEPENDENCY INVERSION
 
-S:
-O:
-L:
-I:
+S: Rompe el principio de responsabilidad unica, 
+	ya que chequea la existencia de una instancia en un get.
+	Es necesario validar si es necesario aplicar el patron.
+O: Rompe el principio de abierto / cerrado,
+	ya que si el constructor es privado y no se puede heredar, tampoco se puede extender
+L: El principio se puede aplicar.
+I: El principio se puede aplicar.
 D:

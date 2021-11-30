@@ -1,0 +1,15 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: No cumple el principio ya que,
+	 tiene la responsabilidad de crear factorias y crear los elementos concretos de estas factorias.
+O: Al aparecer nuevas factorias, 
+	el abstract factory debe modificar su método getFactory 
+	por lo que este principio se incumple.
+	(Entiendo que se soluciona con un diccionario)
+L: Se cumple el principio
+I: Se cumple el principio
+D: No se cumple, la fabrica abstracta necesita conocer las implementaciones de factory
