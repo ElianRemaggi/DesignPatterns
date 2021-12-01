@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple con el principio, unicamente creara un nuevo objeto a partir de otro
+O: Cumple con el principio, si se necesita extender funcionalidad se puede usar un decorador.
+L: El principio se tendria que cumplir de codificar clases hijas.
+I: Cumple con el principio.
+D: Cumple con el principio.

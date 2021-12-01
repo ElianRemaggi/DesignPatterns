@@ -16,7 +16,7 @@ Creacionales:
 
 	Prototype = Especifica los tipos de objetos a crear, por medio de una instancia prototipica y crea nuevos ojetos a partir de esta
 
-	Singleton = 
+	Singleton = Generar una unica instancia de un objeto, consumible por multiples clientes.
 
 
 
