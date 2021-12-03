@@ -40,7 +40,8 @@ Estructurales:
 
 	Proxy
 
-	Decorator
+	Decorator = Agrega funcionalidad a una clase existente, sin modificar su estructura.
+		    Lo logra a partir de  crear una nueva clase.
 
 
 

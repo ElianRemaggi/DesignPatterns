@@ -1,0 +1,16 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el principio, agregar funcionalidad a una clase.
+Si se requiere se puede anidar decoradores.
+O: Cummple el principio, en esto se basa el patron,
+agregar una nueva clase para modificar otra existente,
+sin tocar el codigo ya escrito.
+L: Cumple el principio, tendria que utilizarse la clase padre
+con instancias del decorado.
+I: Cumple el principio, ya que se agregan nuevas clases/interfaces,
+a medida que se lo va necesitando, para no formar una superclase.
+D: No hay impedimento para cumplir con este principio.
