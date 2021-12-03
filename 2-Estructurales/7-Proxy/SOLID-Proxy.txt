@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple con el principio, su responsabilidad es dar acceso al objeto
+O: Cumple con el principio, sera necesario decorar el proxy para agegar funcionaldad
+L: Cumple con el principio, cualquier clase derivada de esta podra ser utilizada como el mismo proxy
+I: Aplica?
+D: No cumple con el principio, requiere aplicar factory
