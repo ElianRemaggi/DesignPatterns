@@ -33,7 +33,8 @@ Estructurales:
 
 	Composite
 
-	Facade
+	Facade = Facade o Fachada es un patron que busca ocultar o simplificar la logica de la aplicaicon,
+		 El cliente dispone de las implementaciones gracias al mediador Facade.
 
 	Flyweight
 

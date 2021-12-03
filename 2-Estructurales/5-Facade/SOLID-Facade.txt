@@ -1,0 +1,13 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el requisito, dar acceso a los metodos de una clase.
+O: Cumple con el requisito, si se requiere implementar nueva logica,
+esta tarea sera desarrollada por sus hijos.
+L: Cumple el requisito, un hijo de Facade tendria que poder ser funcional al principio.
+I: Respeta el principio, no con interfaces, pero si con clases.
+De estar formandose una superclase esta se puede dividir en pequeñas clases.
+D: No se cumple el principio. Se puede solcionar acomplando el patron Factory.
