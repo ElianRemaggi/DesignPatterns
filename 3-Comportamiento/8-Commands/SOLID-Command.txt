@@ -1,0 +1,17 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el principio, las responsabilidades son unicas tanto en el invoker,
+que genera una peticion de ejecucion de un metodo, como en el exectue,
+que ejecuta todos los metodos de la lista.
+O: El principio se cumple ya que permite la creacion de nuevos commands,
+esto si se requiere agregar nuevas funcionalidades.
+L: El principio se cumple ya que todos los comandos tendrian que poder ser ejecutados
+como si de su padre se tratase.
+I: Esto depende de como se desarrolle cada uno de los comandos,
+el principio deberia cumplirse
+D: Este principio no se cumple, ya que existe una relacion estrecha entre las peticiones 
+y los commands.

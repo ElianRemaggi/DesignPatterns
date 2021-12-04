@@ -11,7 +11,7 @@ Creacionales:
 	Abstract Factory = Crea diferentes familias de objetos, logra escalabilidad a nivel familia.
 
 	Builder =
-
+	
 	Factory Method = Devolver instancias de una clase en particular, por medio de algún identificador.
 
 	Prototype = Especifica los tipos de objetos a crear, por medio de una instancia prototipica y crea nuevos ojetos a partir de esta
@@ -38,7 +38,9 @@ Estructurales:
 
 	Flyweight
 
-	Proxy
+	Proxy = Envoltorio que otorga el acceso a el objeto real o final.
+		Encapsula la complejidad del objetivo, el cliente interactua con el intermediario,
+		el intermediario delega la informacion.
 
 	Decorator = Agrega funcionalidad a una clase existente, sin modificar su estructura.
 		    Lo logra a partir de  crear una nueva clase.
@@ -53,7 +55,8 @@ Comportamiento:
 
 	Chain Of Responsability
 
-	Command
+	Command = Crea una lista de ejecucion de metodos. Enfoqueorientado a comandos
+		  Utilizado con multihilos.
 
 	Interpreter
 
