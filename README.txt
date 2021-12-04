@@ -64,7 +64,8 @@ Comportamiento:
 
 	Mediator
 
-	Memento
+	Memento = Guarda el estado de una operacion en un momento determinado,
+		  Restaura el elemento al estado guardado anteriormente.
 
 	Observer
 

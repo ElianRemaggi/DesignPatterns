@@ -1,0 +1,15 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Se cumple el requisito, todas partes del patron poseen tareas unicas.
+Hay que tener cuidado con el elemento originator, con respecto a la logica
+ajena a el patron de diseno
+O: Se cumple el requisito,  de ser necesario heredar para generar nuevas funcionalidaes,
+sera necesario que todas se comporten como el elemento principal (Liskov Substitution).
+L: Se cumple el requisito.
+I: 
+D: No se cumple el requisito, ya que el caretaker, el memento y e originator,
+requieren conocer los tipos de datos.
