@@ -4,9 +4,9 @@ LISKOV SUBSTITUTION
 INTERFACE SEGREGATION
 DEPENDENCY INVERSION
 
-S: La responsabilidad única será de notificar en el momento que se de una acción. 
-	Siempre estará acompañada de un evento, que se dara adentro del observado.
-O: Funciona si el observado devuelve su estado. 
+S: No se cumple el principio, sujeto a observar esta encargado de notificar a los observadores,
+es una responsabilidad pequena, pero esta atada a algun cambio del observado.
+O: Si es compatible, es suficiente con heredar del observer.
 L: Aplica el principio si las implementaciones están correctas.
 I: Solo se necesita una interfaz para aplicar el método, sin ser necesariamente modificable.
 D: Depende de la implementación, al devolver un estado, se enviarán clases que varían el nivel.

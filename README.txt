@@ -67,7 +67,8 @@ Comportamiento:
 	Memento = Guarda el estado de una operacion en un momento determinado,
 		  Restaura el elemento al estado guardado anteriormente.
 
-	Observer
+	Observer = Notifica los cambios de estado en un objeto,
+		   Aplica la logica desarrollada en la implementacion del observer.
 
 	State
 
