@@ -10,8 +10,13 @@ Creacionales:
 
 	Abstract Factory = Crea diferentes familias de objetos, logra escalabilidad a nivel familia.
 
+<<<<<<< HEAD
+	Builder = 
+
+=======
 	Builder =
 	
+>>>>>>> 40ff5089881f794d815ee817349273cbb1dd7e66
 	Factory Method = Devolver instancias de una clase en particular, por medio de algún identificador.
 
 	Prototype = Especifica los tipos de objetos a crear, por medio de una instancia prototipica y crea nuevos ojetos a partir de esta
@@ -27,23 +32,41 @@ Estructurales:
 	Configura las relaciones entre objetos.
 	Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes
 	
-	Adapter
+	Adapter = 
 
-	Bridge = 
+	Bridge = permite dividir una clase grande, o un grupo de clases estrechamente relacionadas,
+		 en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse 
+		 independientemente la una de la otra.[ Dispositivos, tv, equipo de musica, dvd] [Controles]
 
 	Composite
 
+<<<<<<< HEAD
+	Facade = ocultar o simplificar la complejidad que pueda tener la aplicación
+		 El cliente utiliza la fachada para disponer de las implementaciones mediante este intermediario
+=======
 	Facade = Facade o Fachada es un patron que busca ocultar o simplificar la logica de la aplicaicon,
 		 El cliente dispone de las implementaciones gracias al mediador Facade.
+>>>>>>> 40ff5089881f794d815ee817349273cbb1dd7e66
 
-	Flyweight
+	Flyweight = 
 
+<<<<<<< HEAD
+	Proxy = Crea un envoltorio que permita tener el acceso a el objeto real o final.
+		Encapsula la complejidad del objetivo en un envoltorio,
+		el cliente interactúa con el intermediario, y el intermediario delega la información.
+
+	Decorator = Agregar funcionalidades a una clase existente, sin modificar su estructura,
+		    sin tener que recurrir a la herencia. 
+		    Es una alternativa flexible a la herencia para extender la funcionalidad.
+
+=======
 	Proxy = Envoltorio que otorga el acceso a el objeto real o final.
 		Encapsula la complejidad del objetivo, el cliente interactua con el intermediario,
 		el intermediario delega la informacion.
 
 	Decorator = Agrega funcionalidad a una clase existente, sin modificar su estructura.
 		    Lo logra a partir de  crear una nueva clase.
+>>>>>>> 40ff5089881f794d815ee817349273cbb1dd7e66
 
 
 
@@ -53,28 +76,44 @@ Comportamiento:
 	Desacopla los comportamientos de los objetos, dando la opción de ser más varaibles.
 	Gestionan algoritmos y responsabilidades entre objetos
 
-	Chain Of Responsability
+	Chain Of Responsability =
 
+	Command = Encapsula la petición de alguna operación bajo algún método.
+        	  enfoque orientado a comandos, Crea una lista de ejecución de métodos.
+
+
+<<<<<<< HEAD
+	Interpreter =
+=======
 	Command = Crea una lista de ejecucion de metodos. Enfoqueorientado a comandos
 		  Utilizado con multihilos.
+>>>>>>> 40ff5089881f794d815ee817349273cbb1dd7e66
 
-	Interpreter
+	Iterator =
 
-	Iterator
+	Mediator =
 
-	Mediator
+	Memento = Patron Memento, guarda el estado de una operación en un momento determinado
+            	  Se utiliza para restablecer el estado de un objeto, como un rollback.
 
+<<<<<<< HEAD
+	Observer = El patrón observador se utilizará para notificar cambios de estado a un objeto.
+
+	State =
+=======
 	Memento = Guarda el estado de una operacion en un momento determinado,
 		  Restaura el elemento al estado guardado anteriormente.
 
 	Observer = Notifica los cambios de estado en un objeto,
 		   Aplica la logica desarrollada en la implementacion del observer.
+>>>>>>> 40ff5089881f794d815ee817349273cbb1dd7e66
 
-	State
+	Strategy = Tener diferentes algoritmos, diferentes lógicas encapsuladas.
+		   Se pueden definir familias de algoritmos, encapsularlos y hacerlos intercambiables.
+		   Los algoritmos serán independientes de los clientes que los están utilizando.
 
-	Strategy
 
-	Template Method
+	Template Method =
 
-	Visitor
+	Visitor =
 
