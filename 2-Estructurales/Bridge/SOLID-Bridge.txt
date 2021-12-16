@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: 
+O: Cumple el requisito, sus clases son extensibles
+L: Cumple el requisito, las implementaciones se manejaran con la abstraccion
+I: Cumple el requisito,
+D: 

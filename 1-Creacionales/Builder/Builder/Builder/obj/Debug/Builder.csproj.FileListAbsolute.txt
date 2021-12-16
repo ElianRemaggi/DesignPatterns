@@ -1,0 +1,10 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\obj\Debug\Builder.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\bin\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\bin\Debug\Modelo.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Builder\obj\Debug\Builder.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Modelo\bin\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Modelo\obj\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\1-Creacionales\Builder\Builder\Modelo\obj\Debug\Modelo.pdb

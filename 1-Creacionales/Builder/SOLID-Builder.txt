@@ -1,0 +1,12 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el principio, crear objetos complejos  a partir de otros mas simples.
+O: Cumple el principio, se pueden agregar nuevos tipos de objetos complejos y simples
+L: Cumple el principio, se pueden utilizar las interfaces de las diferentes partes,
+   tanto de objetos complejos como simples
+I: Cumple el principio, se generan diferentes clases para segregar la informacion
+D: Cumple el principio, los objetos se crean por referencias.

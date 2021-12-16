@@ -10,9 +10,7 @@ Creacionales:
 
 	Abstract Factory = Crea diferentes familias de objetos, logra escalabilidad a nivel familia.
 
-	Builder = 
-
-	Builder =
+	Builder = Separa la construcción de un objeto complejo de su representación, de forma que el mismo proceso de construcción pueda crear diferentes representaciones.
 	
 	Factory Method = Devolver instancias de una clase en particular, por medio de algún identificador.
 
