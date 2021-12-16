@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el requisito, adaptar la clase para ser funcional
+O: Cumple el requisito, esta abierto a funcionar con nuevo codig
+L: Cumple el requisito, utiliza el principio para agregar nuevas clases
+I: Cumple el requisito, no existe una razon para romperlo
+D: No cumple el requisito, ya que el adaptador requiere en su cuerpo clases de las que dara uso

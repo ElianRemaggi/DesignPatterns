@@ -1,0 +1,10 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\bin\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\bin\Debug\Modelo.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.CopyComplete
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Adapter\Adapter\Adapter\obj\Debug\Adapter.pdb

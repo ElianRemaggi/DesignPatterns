@@ -27,7 +27,8 @@ Estructurales:
 	Configura las relaciones entre objetos.
 	Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes
 	
-	Adapter = 
+	Adapter = Convierte la interfaz de una clase en otra interfaz que es la que esperan los clientes.
+		  Permite que cooperen las clases que de otra forma no podrian por tener interfaces incompatibles.
 
 	Bridge = permite dividir una clase grande, o un grupo de clases estrechamente relacionadas,
 		 en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse 
