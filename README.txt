@@ -69,7 +69,10 @@ Comportamiento:
 	Desacopla los comportamientos de los objetos, dando la opción de ser más varaibles.
 	Gestionan algoritmos y responsabilidades entre objetos
 
-	Chain Of Responsability =
+	Chain Of Responsability = Evitar acoplar el emisor de una petición a su receptor, 
+				  dando la posibilidad de responder a la petición a mas de un objeto.
+				  Encadena los objetos y pasa la petición a través de la cadena 
+				  hasta que se procesa por algún objeto.
 
 	Command = Encapsula la petición de alguna operación bajo algún método.
         	  enfoque orientado a comandos, Crea una lista de ejecución de métodos.

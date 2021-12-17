@@ -1,0 +1,12 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el principio, cada clase realizara su operacion si puede hacerlo
+O: Cumple el principio, al implementar una clase abstracta el paso al eslabon se genera desde la misma
+si queremos agregar nuevos eslavones a la cadena sera necesario modificar clases ya implementadas
+L: Cumple el principio, siempre se manejan las clases segun la interfaz padre
+I: Cumple el principio, no existe razon para romperlo
+D: Cumple el principio, se trabaja con abstracciones

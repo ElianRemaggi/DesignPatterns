@@ -1,0 +1,10 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\bin\Debug\Modelo.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.csproj.CopyComplete
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.pdb
