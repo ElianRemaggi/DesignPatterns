@@ -1,0 +1,10 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\bin\Debug\Composite.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\bin\Debug\Composite.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\bin\Debug\Composite.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\bin\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\bin\Debug\Modelo.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\obj\Debug\Composite.csproj.CopyComplete
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\obj\Debug\Composite.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\2-Estructurales\Composite\Composite\Composite\obj\Debug\Composite.pdb

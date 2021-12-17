@@ -1,0 +1,14 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Se cumple el principio, realiza acciones compuestas del componente y sus hijos.
+O: Se cumple el principio, no hay razon para romper el principio, si se necesitan nuevos Menu items,
+   pueden codificarse extendiendo de la interfaz/clase abstracta, utilizada como base
+L: Se cumple el principio, ya que los elementos nodos o hojas, extienden de una clase abstracta,
+   que es la base de ambos.
+I: No se cumple el principio, sera necesario implementar en la clase hoja los metodos que no utilizara,
+   pero que son necesarios para los nodos
+D: Se cumple el principio, se depende de referencia a la interfaz abstracta padre.
