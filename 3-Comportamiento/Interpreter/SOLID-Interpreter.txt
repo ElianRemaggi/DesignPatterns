@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Se cumple el principio
+O: No estoy seguro, puede llegar a romper en context, si se necesita agregar nuevas funcionalidades
+L: Se cumple el principio
+I: Se cumple el principio, no hay razon para romperlo
+D: Se cumple el principio, el context maneja las Expreciones desde la interfaz.

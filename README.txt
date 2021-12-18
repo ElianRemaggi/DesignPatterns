@@ -77,7 +77,8 @@ Comportamiento:
 	Command = Encapsula la petición de alguna operación bajo algún método.
         	  enfoque orientado a comandos, Crea una lista de ejecución de métodos.
 
-	Interpreter =
+	Interpreter = Dado un lenguaje, define una representación de su gramática junto con un interprete 
+		      que usa dicha representación para interceptar sentencias del lenguaje.
 
 	Command = Crea una lista de ejecucion de metodos. Enfoqueorientado a comandos
 		  Utilizado con multihilos.

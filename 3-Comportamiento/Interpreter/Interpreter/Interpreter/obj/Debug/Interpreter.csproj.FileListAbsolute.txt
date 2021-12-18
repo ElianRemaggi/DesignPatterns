@@ -1,0 +1,10 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\bin\Debug\Modelo.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\bin\Debug\Modelo.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CopyComplete
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Interpreter\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
