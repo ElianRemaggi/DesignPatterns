@@ -83,7 +83,8 @@ Comportamiento:
 	Command = Crea una lista de ejecucion de metodos. Enfoqueorientado a comandos
 		  Utilizado con multihilos.
 
-	Iterator =
+	Iterator = Proporciona un modo de acceder secuencialmente a los elementos de un objeto agregado,
+		   sin exponer su representación interna.
 
 	Mediator =
 
