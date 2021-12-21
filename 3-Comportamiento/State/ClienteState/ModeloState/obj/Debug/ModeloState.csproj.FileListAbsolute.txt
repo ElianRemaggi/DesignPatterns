@@ -1,0 +1,6 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\State\ClienteState\ModeloState\bin\Debug\ModeloState.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\State\ClienteState\ModeloState\bin\Debug\ModeloState.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\State\ClienteState\ModeloState\obj\Debug\ModeloState.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\State\ClienteState\ModeloState\obj\Debug\ModeloState.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\State\ClienteState\ModeloState\obj\Debug\ModeloState.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\State\ClienteState\ModeloState\obj\Debug\ModeloState.pdb

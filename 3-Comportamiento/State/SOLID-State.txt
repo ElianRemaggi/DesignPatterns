@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el principio, Gestionar los cambios de estado de una clase.
+O: Cumple el principio, Se pueden crear nuevos estados sin modificar codigo ya escrito
+L: Cumple el principio, Las clases tienen que poder ser intercambiales por la interfaz
+I: Cumple el principio, No existe motivo para romperlo.
+D: Cumple el principio, Se maneja con abstracciones.

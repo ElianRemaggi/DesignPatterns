@@ -93,7 +93,8 @@ Comportamiento:
 
 	Observer = El patrón observador se utilizará para notificar cambios de estado a un objeto.
 
-	State =
+	State = Permite que un objeto modifique su comportamiento cada vez que cambie su estado interno.
+		Parece que cambia la clase del objeto
 
 	Memento = Guarda el estado de una operacion en un momento determinado,
 		  Restaura el elemento al estado guardado anteriormente.
