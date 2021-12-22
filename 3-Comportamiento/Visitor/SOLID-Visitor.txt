@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el principio, Generar nuevos metodos para extender funcionalidad
+O: Cumple el principio, Cumple el principio de ser necesario Visitor se puede extender para genrar nuevos metodos
+L: Cumple el principio, Todas las clases pueden ser utilizadas como sus interfaces o clases abstractas
+I: Cumple el principio, Se pueden generar nuevas interfaces segun sea necesario
+D: Cumple el principio, El ejemplo esta codificado con abstracciones

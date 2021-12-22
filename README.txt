@@ -108,5 +108,8 @@ Comportamiento:
 
 	Template Method =
 
-	Visitor =
+	Visitor = Representa una operación sobre los elementos de una estructura de objetos. 
+		  Permite definir una nueva operación sin cambiar las clases de los elementos sobre los que opera.
+		  Es una forma de separar el algoritmo de la estructura de un objeto
+
 

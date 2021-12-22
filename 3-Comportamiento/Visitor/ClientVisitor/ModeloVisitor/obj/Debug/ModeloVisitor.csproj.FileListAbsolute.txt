@@ -1,0 +1,6 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ModeloVisitor\bin\Debug\ModeloVisitor.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ModeloVisitor\bin\Debug\ModeloVisitor.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ModeloVisitor\obj\Debug\ModeloVisitor.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ModeloVisitor\obj\Debug\ModeloVisitor.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ModeloVisitor\obj\Debug\ModeloVisitor.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ModeloVisitor\obj\Debug\ModeloVisitor.pdb

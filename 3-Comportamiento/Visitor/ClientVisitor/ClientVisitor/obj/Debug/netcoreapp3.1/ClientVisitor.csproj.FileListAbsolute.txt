@@ -1,0 +1,16 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ClientVisitor.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ClientVisitor.deps.json
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ClientVisitor.runtimeconfig.json
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ClientVisitor.runtimeconfig.dev.json
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ClientVisitor.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ClientVisitor.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.AssemblyInfoInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.AssemblyInfo.cs
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.genruntimeconfig.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ModeloVisitor.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\bin\Debug\netcoreapp3.1\ModeloVisitor.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Visitor\ClientVisitor\ClientVisitor\obj\Debug\netcoreapp3.1\ClientVisitor.csproj.CopyComplete

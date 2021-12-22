@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClientVisitor/1.0.0": {
+        "dependencies": {
+          "ModeloVisitor": "1.0.0"
+        },
+        "runtime": {
+          "ClientVisitor.dll": {}
+        }
+      },
+      "ModeloVisitor/1.0.0": {
+        "runtime": {
+          "ModeloVisitor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientVisitor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModeloVisitor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

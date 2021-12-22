@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientVisitor", "ClientVisitor\ClientVisitor.csproj", "{F699DFDE-13FD-43C1-AEAC-5626BDB07DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloVisitor", "ModeloVisitor\ModeloVisitor.csproj", "{CF7EC5C0-9446-4C3B-83A7-42BAFD0C15E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F699DFDE-13FD-43C1-AEAC-5626BDB07DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F699DFDE-13FD-43C1-AEAC-5626BDB07DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F699DFDE-13FD-43C1-AEAC-5626BDB07DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F699DFDE-13FD-43C1-AEAC-5626BDB07DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7EC5C0-9446-4C3B-83A7-42BAFD0C15E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7EC5C0-9446-4C3B-83A7-42BAFD0C15E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7EC5C0-9446-4C3B-83A7-42BAFD0C15E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7EC5C0-9446-4C3B-83A7-42BAFD0C15E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D69C67-36A3-4385-AA0B-EEFE53080C60}
+	EndGlobalSection
+EndGlobal
