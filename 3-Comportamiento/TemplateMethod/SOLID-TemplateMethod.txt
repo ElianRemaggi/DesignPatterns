@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el requisito, las clases poseen una unica responsabilidad y las subclases desarrollaran esos metodos
+O: Cumple el principio, herda de la clase padre y puede implementar nuevas clases abstractas
+L: Cumple el principio, todas las subclases pueden ser tratadas como clases padre
+I: Cumple el principio, se pueden tener muchas interfaces sin recurrir a una superclase
+D: Cumple el principio, se utiliza la clase padre para referir a los hijos

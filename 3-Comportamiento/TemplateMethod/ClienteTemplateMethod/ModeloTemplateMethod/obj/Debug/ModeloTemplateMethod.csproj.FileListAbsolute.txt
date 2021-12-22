@@ -1,0 +1,6 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ModeloTemplateMethod\bin\Debug\ModeloTemplateMethod.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ModeloTemplateMethod\bin\Debug\ModeloTemplateMethod.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ModeloTemplateMethod\obj\Debug\ModeloTemplateMethod.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ModeloTemplateMethod\obj\Debug\ModeloTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ModeloTemplateMethod\obj\Debug\ModeloTemplateMethod.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ModeloTemplateMethod\obj\Debug\ModeloTemplateMethod.pdb

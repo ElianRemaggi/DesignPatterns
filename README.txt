@@ -108,7 +108,9 @@ Comportamiento:
 		   Se pueden definir familias de algoritmos, encapsularlos y hacerlos intercambiables.
 		   Los algoritmos serán independientes de los clientes que los están utilizando.
 
-	Template Method =
+	Template Method = Define en una operación el esqueleto de un algoritmo, delegando en las subclases algunos de sus pasos. 
+			  Permite que las subclases redefinan ciertos pasos de un algoritmo 
+			  sin cambiar la estructura.
 
 	Visitor = Representa una operación sobre los elementos de una estructura de objetos. 
 		  Permite definir una nueva operación sin cambiar las clases de los elementos sobre los que opera.

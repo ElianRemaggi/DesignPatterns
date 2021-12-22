@@ -1,0 +1,10 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\bin\Debug\ClienteTemplateMethod.exe.config
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\bin\Debug\ClienteTemplateMethod.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\bin\Debug\ClienteTemplateMethod.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\bin\Debug\ModeloTemplateMethod.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\bin\Debug\ModeloTemplateMethod.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\obj\Debug\ClienteTemplateMethod.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\obj\Debug\ClienteTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\obj\Debug\ClienteTemplateMethod.csproj.CopyComplete
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\obj\Debug\ClienteTemplateMethod.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClienteTemplateMethod\ClienteTemplateMethod\obj\Debug\ClienteTemplateMethod.pdb
