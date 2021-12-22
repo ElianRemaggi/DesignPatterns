@@ -1,0 +1,16 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ClientMediator.exe
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ClientMediator.deps.json
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ClientMediator.runtimeconfig.json
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ClientMediator.runtimeconfig.dev.json
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ClientMediator.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ClientMediator.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ModeloMediator.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\bin\Debug\netcoreapp3.1\ModeloMediator.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.AssemblyInfoInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.AssemblyInfo.cs
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.csproj.CopyComplete
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ClientMediator\obj\Debug\netcoreapp3.1\ClientMediator.genruntimeconfig.cache

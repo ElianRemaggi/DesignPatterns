@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClientMediator/1.0.0": {
+        "dependencies": {
+          "ModeloMediator": "1.0.0"
+        },
+        "runtime": {
+          "ClientMediator.dll": {}
+        }
+      },
+      "ModeloMediator/1.0.0": {
+        "runtime": {
+          "ModeloMediator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientMediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModeloMediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

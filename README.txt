@@ -86,7 +86,9 @@ Comportamiento:
 	Iterator = Proporciona un modo de acceder secuencialmente a los elementos de un objeto agregado,
 		   sin exponer su representación interna.
 
-	Mediator =
+	Mediator = Define un objeto que encapsula cómo interactúan una serie de objetos.
+		   Promueve un bajo acoplamiento al evitar que los objetos se refieran unos a otros explícitamente,
+		   y permite variar la interacción entre ellos de forma independiente.
 
 	Memento = Patron Memento, guarda el estado de una operación en un momento determinado
             	  Se utiliza para restablecer el estado de un objeto, como un rollback.

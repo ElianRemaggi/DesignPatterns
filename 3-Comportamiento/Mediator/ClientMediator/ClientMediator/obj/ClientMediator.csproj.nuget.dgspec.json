@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ClientMediator\\ClientMediator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ClientMediator\\ClientMediator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ClientMediator\\ClientMediator.csproj",
+        "projectName": "ClientMediator",
+        "projectPath": "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ClientMediator\\ClientMediator.csproj",
+        "packagesPath": "C:\\Users\\Coding\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ClientMediator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coding\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ModeloMediator\\ModeloMediator.csproj": {
+                "projectPath": "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ModeloMediator\\ModeloMediator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ModeloMediator\\ModeloMediator.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ModeloMediator\\ModeloMediator.csproj",
+        "projectName": "ModeloMediator",
+        "projectPath": "C:\\Users\\Coding\\Documents\\quark\\Patrones de disenio\\3-Comportamiento\\Mediator\\ClientMediator\\ModeloMediator\\ModeloMediator.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

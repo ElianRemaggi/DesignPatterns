@@ -1,0 +1,6 @@
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ModeloMediator\bin\Debug\ModeloMediator.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ModeloMediator\bin\Debug\ModeloMediator.pdb
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ModeloMediator\obj\Debug\ModeloMediator.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ModeloMediator\obj\Debug\ModeloMediator.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ModeloMediator\obj\Debug\ModeloMediator.dll
+C:\Users\Coding\Documents\quark\Patrones de disenio\3-Comportamiento\Mediator\ClientMediator\ModeloMediator\obj\Debug\ModeloMediator.pdb

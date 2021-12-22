@@ -1,0 +1,11 @@
+SINGLE RESPONSIBILITY
+OPEN CLOSED
+LISKOV SUBSTITUTION
+INTERFACE SEGREGATION
+DEPENDENCY INVERSION
+
+S: Cumple el requisito.
+O: Cumple el requisito, las clases poseen un padre que da la posibilidad de extender para genrar nuevo codigo
+L: Cumple el requisito, todas las clases son tratadas como sus padres
+I: Cumple el requisito, no hay razon para no poder extender nuevas interfaces
+D: Cumple el requisito, se maneja a partir de las abstracciones
