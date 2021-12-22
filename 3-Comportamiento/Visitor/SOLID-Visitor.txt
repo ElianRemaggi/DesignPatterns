@@ -4,8 +4,8 @@ LISKOV SUBSTITUTION
 INTERFACE SEGREGATION
 DEPENDENCY INVERSION
 
-S: Cumple el principio, Generar nuevos metodos para extender funcionalidad
-O: Cumple el principio, Cumple el principio de ser necesario Visitor se puede extender para genrar nuevos metodos
-L: Cumple el principio, Todas las clases pueden ser utilizadas como sus interfaces o clases abstractas
-I: Cumple el principio, Se pueden generar nuevas interfaces segun sea necesario
-D: Cumple el principio, El ejemplo esta codificado con abstracciones
+S: No cumple el principio, los visitantes reaccionara segun la implementacion
+O: No cumple el principio, sera necesario rediseñar el padre de los visitor si se necesita visitar un nuevo objeto
+L: Cumple el principio, todas las clases pueden ser utilizadas como sus interfaces o clases abstractas
+I: No cumple el principio, es dificil mantener interfaces segregadas para este patron
+D: No cumple el principio, el padre visitor debe conocer las implementaciones concretas
